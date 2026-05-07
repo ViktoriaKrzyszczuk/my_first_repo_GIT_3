@@ -6,3 +6,9 @@ Nazwa repozytorium: my_first_repo_GIT_3
 Imię i nazwisko: Viktoria Krzyszczuk
 
 Numer słuchacza: pd5357
+
+
+
+GIT_7
+
+Praca z gałęziami i rozwiązywanie konfliktów.
