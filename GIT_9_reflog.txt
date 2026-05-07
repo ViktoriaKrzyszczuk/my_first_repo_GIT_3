@@ -1,0 +1,36 @@
+5692545 HEAD@{0}: commit: Dodano log po reset
+1adb4ac HEAD@{1}: reset: moving to HEAD~1
+377d255 HEAD@{2}: commit: Dodano log do GIT_9
+1adb4ac HEAD@{3}: commit: Dodano log po cherry-pick
+23faa53 HEAD@{4}: cherry-pick: Dodano log cherry-pick
+6bd1862 HEAD@{5}: checkout: moving from test to main
+24ff4ea HEAD@{6}: commit: Dodano log cherry-pick
+4206c96 HEAD@{7}: checkout: moving from main to test
+6bd1862 HEAD@{8}: commit: Dodano log po rebase
+30bf478 HEAD@{9}: rebase (finish): returning to refs/heads/main
+30bf478 HEAD@{10}: rebase (squash): Przywrocono zmiany ze stash
+d6a7279 HEAD@{11}: rebase (start): checkout HEAD~2
+09583b5 HEAD@{12}: commit: Dodano stan repozytorium
+d6a7279 HEAD@{13}: commit: Przywrocono zmiany ze stash
+0b34507 HEAD@{14}: merge test: Merge made by the 'ort' strategy.
+c289edb HEAD@{15}: checkout: moving from test to main
+4206c96 HEAD@{16}: commit: Dodano diff z GIT_8
+82565a6 HEAD@{17}: commit: Dodano log z GIT_8
+90477c0 HEAD@{18}: checkout: moving from main to test
+c289edb HEAD@{19}: commit: Dodano liste stash
+43b4577 HEAD@{20}: reset: moving to HEAD
+43b4577 HEAD@{21}: commit: Dodano historię gałęzi
+2ba180f HEAD@{22}: commit (merge): Rozwiązano konflikt
+4759ba9 HEAD@{23}: checkout: moving from test to main
+90477c0 HEAD@{24}: commit: Zmiana README na test
+c958791 HEAD@{25}: checkout: moving from main to test
+4759ba9 HEAD@{26}: commit: Zmiana README na main
+01197d3 HEAD@{27}: checkout: moving from test to main
+c958791 HEAD@{28}: commit: Dodano pliki z zadania GIT_7
+01197d3 HEAD@{29}: checkout: moving from main to test
+01197d3 HEAD@{30}: commit: Dodano pliki z zadania GIT_6
+1be074b HEAD@{31}: commit: dodano opis do GIT_5
+870b195 HEAD@{32}: commit: Dodano README
+d08d716 HEAD@{33}: commit: Usunięto plik i przywrócono zmiany
+a455c59 HEAD@{34}: commit: Dodano pliki statusu
+cc5db86 HEAD@{35}: commit (initial): Dodano pliki tekstowe
