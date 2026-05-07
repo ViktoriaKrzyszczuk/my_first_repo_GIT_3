@@ -1,0 +1,14 @@
+diff --git a/GIT_8_log.txt b/GIT_8_log.txt
+new file mode 100644
+index 0000000..1c5525f
+--- /dev/null
++++ b/GIT_8_log.txt
+@@ -0,0 +1,8 @@
++90477c0 Zmiana README na test
++c958791 Dodano pliki z zadania GIT_7
++01197d3 Dodano pliki z zadania GIT_6
++1be074b dodano opis do GIT_5
++870b195 Dodano README
++d08d716 Usunięto plik i przywrócono zmiany
++a455c59 Dodano pliki statusu
++cc5db86 Dodano pliki tekstowe
