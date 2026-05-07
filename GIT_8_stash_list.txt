@@ -1,0 +1,1 @@
+stash@{0}: WIP on main: 43b4577 Dodano historię gałęzi
