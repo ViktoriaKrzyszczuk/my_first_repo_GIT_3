@@ -1,0 +1,10 @@
+* 4206c96 Dodano diff z GIT_8
+* 82565a6 Dodano log z GIT_8
+* 90477c0 Zmiana README na test
+* c958791 Dodano pliki z zadania GIT_7
+* 01197d3 Dodano pliki z zadania GIT_6
+* 1be074b dodano opis do GIT_5
+* 870b195 Dodano README
+* d08d716 Usunięto plik i przywrócono zmiany
+* a455c59 Dodano pliki statusu
+* cc5db86 Dodano pliki tekstowe
