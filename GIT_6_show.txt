@@ -1,0 +1,19 @@
+commit 1be074b353fd56c5bc551bf642d896d133a591fe
+Author: Viktoria Krzyszczuk <viktoriakrzyszczuk@macbookair.home>
+Date:   Thu May 7 20:28:50 2026 +0200
+
+    dodano opis do GIT_5
+
+diff --git a/GIT_5_diff.txt b/GIT_5_diff.txt
+new file mode 100644
+index 0000000..c862d48
+--- /dev/null
++++ b/GIT_5_diff.txt
+@@ -0,0 +1,6 @@
++
++Polecenie git diff pokazuje różnice pomiędzy wersjami plików w repozytorium Git (porównanie starej i nowej wersji plików).
++
++Na przedstawionym przykładzie został dodany nowy plik drugi_plik.txt wraz z tekstem. Został także zmodyfikowany plik nowy_plik.txt poprzez dodanie linii „Hello world”.
++
++Znak „+” oznacza dodaną zawartość, a git diff pozwala sprawdzić jakie zmiany zostały wykonane pomiędzy wersjami plików.
+\ No newline at end of file

@@ -1,0 +1,29 @@
+commit 1be074b353fd56c5bc551bf642d896d133a591fe
+Author: Viktoria Krzyszczuk <viktoriakrzyszczuk@macbookair.home>
+Date:   Thu May 7 20:28:50 2026 +0200
+
+    dodano opis do GIT_5
+
+commit 870b195ed560126049d4d2a333cf8f10f0f4a9e3
+Author: Viktoria Krzyszczuk <viktoriakrzyszczuk@macbookair.home>
+Date:   Thu May 7 20:08:38 2026 +0200
+
+    Dodano README
+
+commit d08d716f055947aa41fb84c0f2a6d1d78af8d5f6
+Author: Viktoria Krzyszczuk <viktoriakrzyszczuk@macbookair.home>
+Date:   Thu May 7 19:59:57 2026 +0200
+
+    Usunięto plik i przywrócono zmiany
+
+commit a455c59c04c5321971063818a3a13120ee39192c
+Author: Viktoria Krzyszczuk <viktoriakrzyszczuk@macbookair.home>
+Date:   Thu May 7 19:52:29 2026 +0200
+
+    Dodano pliki statusu
+
+commit cc5db866c25f77f57227767bd9fd3b1d91389019
+Author: Viktoria Krzyszczuk <viktoriakrzyszczuk@macbookair.home>
+Date:   Thu May 7 19:45:09 2026 +0200
+
+    Dodano pliki tekstowe
