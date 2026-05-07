@@ -14,3 +14,4 @@ Nazwa przedmiotu: System kontroli wersji
 Praca z gałęziami i rozwiązywanie konfliktów.
 
 Tym wpisem chcemy spowodować konflikt.
+Test CI/CD
