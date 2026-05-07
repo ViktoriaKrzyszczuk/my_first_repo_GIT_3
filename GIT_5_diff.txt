@@ -1,0 +1,6 @@
+
+Polecenie git diff pokazuje różnice pomiędzy wersjami plików w repozytorium Git (porównanie starej i nowej wersji plików).
+
+Na przedstawionym przykładzie został dodany nowy plik drugi_plik.txt wraz z tekstem. Został także zmodyfikowany plik nowy_plik.txt poprzez dodanie linii „Hello world”.
+
+Znak „+” oznacza dodaną zawartość, a git diff pozwala sprawdzić jakie zmiany zostały wykonane pomiędzy wersjami plików.
