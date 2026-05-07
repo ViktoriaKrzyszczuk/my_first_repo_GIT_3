@@ -1,0 +1,8 @@
+
+GIT_1
+
+Przykład zastosowania systemu kontroli wersji w bioinformatyce:
+
+System kontroli wersji może zostać wykorzystany do pracy nad analizą danych genetycznych. Zespół badawczy pracuje nad skryptami do analizy sekwencji DNA oraz przygotowuje różne wersje wyników badań.
+
+Dzięki Gitowi możliwe jest zapisywanie kolejnych zmian w kodzie, porównywanie wersji skryptów oraz współpraca wielu osób nad tym samym projektem. W przypadku błędu można wrócić do wcześniejszej wersji analizy lub sprawdzić, kto wprowadził daną zmianę. System kontroli wersji może także wspomóc dokumentowanie przebiegu badań i zapewnić odpowiednią organizacje pracy. 
