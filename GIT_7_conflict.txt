@@ -7,12 +7,14 @@ Imię i nazwisko: Viktoria Krzyszczuk
 
 Numer słuchacza: pd5357
 
+<<<<<<< HEAD
 
 
 GIT_7
 
 Praca z gałęziami i rozwiązywanie konfliktów.
-
+=======
 GIT_7
 
 Tym wpisem chcemy spowodować konflikt.
+>>>>>>> test
