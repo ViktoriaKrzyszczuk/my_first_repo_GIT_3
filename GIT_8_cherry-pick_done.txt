@@ -1,0 +1,21 @@
+* 23faa53 Dodano log cherry-pick
+* 6bd1862 Dodano log po rebase
+* 30bf478 Przywrocono zmiany ze stash
+*   0b34507 Merge branch 'test'
+|\  
+| * 4206c96 Dodano diff z GIT_8
+| * 82565a6 Dodano log z GIT_8
+* | c289edb Dodano liste stash
+* | 43b4577 Dodano historię gałęzi
+* | 2ba180f Rozwiązano konflikt
+|\| 
+| * 90477c0 Zmiana README na test
+| * c958791 Dodano pliki z zadania GIT_7
+* | 4759ba9 Zmiana README na main
+|/  
+* 01197d3 Dodano pliki z zadania GIT_6
+* 1be074b dodano opis do GIT_5
+* 870b195 Dodano README
+* d08d716 Usunięto plik i przywrócono zmiany
+* a455c59 Dodano pliki statusu
+* cc5db86 Dodano pliki tekstowe
