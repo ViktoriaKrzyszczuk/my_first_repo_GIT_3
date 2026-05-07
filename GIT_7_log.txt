@@ -1,0 +1,6 @@
+01197d3 Dodano pliki z zadania GIT_6
+1be074b dodano opis do GIT_5
+870b195 Dodano README
+d08d716 Usunięto plik i przywrócono zmiany
+a455c59 Dodano pliki statusu
+cc5db86 Dodano pliki tekstowe
